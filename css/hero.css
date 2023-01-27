@@ -1,0 +1,38 @@
+.hero{
+    padding: 62px 0; /*с верху ис низу 62px а c права и лева 0*/
+}
+
+.hero__title{
+    font-weight: 400;
+    font-size: 54px;
+    line-height: 120%;
+    /* or 65px */
+    text-transform: uppercase;
+    /* 1 */
+    color: #F6F3E3;
+    max-width: 904px; /*ширина текста на стр*/
+    margin: 0 0 36px;
+}
+
+@media (max-width:768px){
+    .hero{
+        padding: 40px 0; /*с верху ис низу 62px а c права и лева 0*/
+    }
+
+    .hero__title{
+        font-size: 40px;
+        margin-bottom: 24px;
+    }
+}
+
+@media (max-width:560px){
+    .hero{
+        padding: 32px 0; /*с верху ис низу 62px а c права и лева 0*/
+    }
+
+    .hero__title{
+        font-size: 24px;
+        margin-bottom: 16px;
+        max-width: 420px;
+    }
+}
