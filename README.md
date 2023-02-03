@@ -1,4 +1,4 @@
-# Web_Chik-Chik
+# Web Chik-Chik
 Кросс адаптивный Web-сайт Chik-Chik
 
 - Используемые технологии: HTML, CSS & JavaScript
