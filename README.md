@@ -6,4 +6,4 @@
 - Совместим с мобильными устройствами и имеет красивый и приятный пользовательский интерфейс..
 - Макет нарисов в Figma
 
-![preview img](/preview.png)
+![Image alt](https://github.com/davgame/Web_Chik-Chik/blob/main/img/preview.png)
