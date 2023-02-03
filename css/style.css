@@ -18,6 +18,7 @@ html{
 body{
     min-width: 320px; /*минимальный размер стр*/
     font-family: Raleway, sans-serif; /*запасной шрифт sans-serif*/
+    font-feature-settings: 'pnum' on, 'lnum' on; /*свойство выравнивает цифры*/
     background-color: #241D1C;
     font-size: 16px;
     font-weight: 400;

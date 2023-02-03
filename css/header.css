@@ -17,5 +17,12 @@
 @media (max-width:768px){ /*максимальная длина стр*/
     .header__navigation{
         display: none; /*отображения нет*/
+   }
+}
+
+@media(max-width:560px){
+    .header__container{
+        padding-top: 12px;
+        padding-top: 13px;
     }
 }
